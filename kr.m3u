@@ -1,42 +1,42 @@
 #EXTM3U
 #EXTINF:-1 group-title="Animation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png",Animax (1080p)
-https://kr-streams.onrender.com/scraper?channel=409
+#https://kr-streams.onrender.com/scraper?channel=409
 #EXTINF:-1 group-title="Animation" tvg-logo="https://i.imgur.com/2zq8PDL.png",Anione (1080p)
-https://kr-streams.onrender.com/scraper?channel=426
+#https://kr-streams.onrender.com/scraper?channel=426
 #EXTINF:-1 group-title="Movies;Series" tvg-logo="https://i.imgur.com/DHJjmW5.png",AsiaN (1080p)
-https://kr-streams.onrender.com/scraper?channel=215
+#https://kr-streams.onrender.com/scraper?channel=215
 #EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/BBS_%EB%B6%88%EA%B5%90%EB%B0%A9%EC%86%A1.svg/512px-BBS_%EB%B6%88%EA%B5%90%EB%B0%A9%EC%86%A1.svg.png",BBS Buddhist Broadcasting (1080p)
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+#http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/sOoS7RQ.png",BTN TV (1080p)
-http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+#http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/W9laHPD.png",Channel A
-http://han.ddkdxmkj.com/api/han123.php?id=15
+#http://han.ddkdxmkj.com/api/han123.php?id=15
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/zGDAYlD.png",Channel Seezn (1080p)
-https://kr-streams.onrender.com/scraper?channel=470
+#https://kr-streams.onrender.com/scraper?channel=470
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/k6Lajox.png",CJ OnStyle (540p)
-https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/Xn9Mhy5.png",CJ OnStyle Plus (540p)
-https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+#https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/CTS%EA%B8%B0%EB%8F%85%EA%B5%90TV.png",CTS기독교TV (720p)
-https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/AL4Cjlj.png",Golf & PBA (1080p)
-https://kr-streams.onrender.com/scraper?channel=237
+#https://kr-streams.onrender.com/scraper?channel=237
 #EXTINF:-1 group-title="Shop" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gongyoung-home-shopping-kr.png",Gongyoung Shopping (720p)
-https://etv.publichs.com/live5.stream/playlist.m3u8
+#https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/jB4fUid.png",GS My Shop (1080p)
-https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Ey7Htm8.png",GugakTV 국악방송 (1080p)
-http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/f1tz5fg.png",Gugbang TV (1080p) [Not 24/7]
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/jCTTtRJ.png",Home & Shopping (720p)
-https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+#https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/DoNOuZE.png",Hyundai Home Shopping Plus (720p)
-https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+#https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Bpu1suw.png",IB Sports (1080p)
-https://kr-streams.onrender.com/scraper?channel=271
+#https://kr-streams.onrender.com/scraper?channel=271
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IyeMSMp.png",JTBC Golf (1080p)
-https://kr-streams.onrender.com/scraper?channel=299
+#https://kr-streams.onrender.com/scraper?channel=299
 #EXTINF:-1 group-title="Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png",KBS Drama (480p)
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png",KBS Joy (480p)
