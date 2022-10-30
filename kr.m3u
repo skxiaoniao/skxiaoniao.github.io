@@ -64,15 +64,15 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS2 (720p)
 http://183.99.22.189:9981/stream/channelid/1564137658
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IHkZpaI.png",KCTV 광주 CH05 (720p) [Not 24/7]
-http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
+#http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qSrdLWy.png",KMTV
-https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
+#https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",KpopTV Play (720p) [Not 24/7]
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/ddUxaSR.png",KShopping
-https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+#https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/dJeNehc.png",Lotte Home Shopping (720p)
-https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 #EXTINF:-1 group-title="Entertainment;Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment;Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",MBC
@@ -82,13 +82,13 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/i
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%EC%95%88%EB%8F%99%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png/512px-%EC%95%88%EB%8F%99%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png",MBC Andong (안동MBC) (360p) [Not 24/7]
 http://andong.webcasting.co.kr/live/mbc/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/nBJwmvD.png",MBC Busan (부산MBC) (360p) [Not 24/7]
-http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
+#http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ZhNhS5H.png",MBC Daegu (대구 MBC) (480p) [Not 24/7]
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+#https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/HCbvAiM.png",MBC Daejeon (대전 MBC) (720p) [Not 24/7]
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+#https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Ronb1JP.png",MBC Gyeongnam (경상 MBC) (1080p) [Not 24/7]
-https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
+#https://624a79c87201d.streamlock.net/MBCTV/TV1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png/512px-%EC%A0%9C%EC%A3%BC%EB%AC%B8%ED%99%94%EB%B0%A9%EC%86%A1_%EB%A1%9C%EA%B3%A0.png",MBC Jeju (제주 MBC) (352p) [Not 24/7]
 https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment;Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",MBC News
@@ -100,15 +100,15 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/FEdP2k6.png",MTN (720p)
 http://183.110.27.87/mtnlive/720/playlist.m3u8
 #EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/k2IcnYi.png",National Assembly TV (720p)
-https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
+#https://m.webcast.go.kr/live/_definst_/smil:natv_720p.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/loWf3B5.jpg",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/nE9LokP.png",NEC ETV 한국선거방송 (720p)
-http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nhtv-kr.png",NHTV (720p)
-http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/o8EKw9Q.png",NS Home Shopping (720p)
-https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
+#https://livestream.nsmall.com/IPHONE/nsmallMobile.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/S4tZXZi.png",NS Shop Plus (720p)
 https://shoppstream.nsmall.com/IPHONE/mobile.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/oWB3ApR.png",OBS Gyeongin TV (540p)
