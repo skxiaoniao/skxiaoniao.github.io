@@ -167,3 +167,5 @@ http://192.241.153.173/live/livestream.m3u8
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/512px-YTN_logo_2014.svg.png",YTN (1080p)
 http://210.92.207.38:40001
+#EXTINF:-1 group-title="General" JTBC (1080p)
+http://106.246.182.11:9981/stream/channelid/84
