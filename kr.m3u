@@ -129,6 +129,8 @@ http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment;Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",SBS
 http://61.82.49.4:1935/live/_definst_/tv.stream/chunklist_w432889607.m3u8
+#EXTINF:-1 group-title="Entertainment;Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png",연합뉴스
+https://d159bkgw8gqbya.cloudfront.net/out/v1/78665f25586047cfb63902bad6486b6b/yonhap-hevc.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MvxdZhX.png",SBS CJB (CJB청주방송) (540p) [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/512px-Jtv_logo.svg.png",SBS JTV (JTV전주방송) (406p) [Not 24/7]
