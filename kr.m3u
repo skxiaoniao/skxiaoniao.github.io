@@ -63,6 +63,8 @@ http://220.95.92.160:9981/stream/channelid/660474352
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS2 (720p)
 http://183.99.22.189:9981/stream/channelid/1564137658
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png",KBS2 (720p)
+http://220.95.92.160:9981/stream/channelid/280136412
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IHkZpaI.png",KCTV 광주 CH05 (720p) [Not 24/7]
 #http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/qSrdLWy.png",KMTV
